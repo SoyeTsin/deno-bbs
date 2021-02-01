@@ -47,5 +47,13 @@
   "directories": {
     "doc": "docs"
   },
-  "license": "ISC"
+  "license": "ISC",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/SoyeTsin/deno-bbs.git"
+  },
+  "bugs": {
+    "url": "https://github.com/SoyeTsin/deno-bbs/issues"
+  },
+  "homepage": "https://github.com/SoyeTsin/deno-bbs#readme"
 }
