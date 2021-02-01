@@ -10,7 +10,7 @@
     "precommit": "npm run lint",
     "dev": "nuxt",
     "debug": "node --inspect ./node_modules/.bin/nuxt",
-    "build": "nuxt build && scp -r ./.nuxt root@47.115.138.43:/home/bbs/www/site/ && scp -r ./static root@47.115.138.43:/home/bbs/www/site/",
+    "build": "nuxt build",
     "start": "nuxt start",
     "generate": "nuxt generate"
   },
