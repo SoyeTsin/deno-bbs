@@ -121,7 +121,7 @@ export default {
   },
 
   proxy: {
-    '/api/': 'http://deno.fans',
+    '/api/': 'http://127.0.0.1',
   },
 
   /*
