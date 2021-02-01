@@ -120,9 +120,7 @@ export default {
     credentials: true,
   },
 
-  proxy: {
-    '/api/': 'http://127.0.0.1',
-  },
+  proxy: {},
 
   /*
    ** Build configuration
